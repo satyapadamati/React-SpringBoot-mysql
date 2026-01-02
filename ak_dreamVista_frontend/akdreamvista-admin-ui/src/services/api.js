@@ -1,4 +1,4 @@
-const BASE_URL = "http://23.20.0.192:8080";
+const BASE_URL = "https://react-springboot-mysql-production.up.railway.app";
 
 /* 🔓 PUBLIC APIs (NO TOKEN) */
 export const fetchAllProperties = () => {
